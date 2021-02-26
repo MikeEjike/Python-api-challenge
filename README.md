@@ -1,4 +1,4 @@
-# Python-api-challenge - What's the Weather Like?
+# What's the Weather Like?
 
 ## Part I - WeatherPy
 
